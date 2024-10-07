@@ -19,6 +19,7 @@ Train the model on the data and stop early when accuracy reaches 97%.
 Plot the accuracy and loss for both training and validation.
 
 ## PROGRAM
+```
 # Import all the necessary files!
 import os
 import tensorflow as tf
